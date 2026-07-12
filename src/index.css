@@ -222,6 +222,13 @@ img {
   color: var(--color-primary-dark);
 }
 
+.brand-tagline {
+  font-size: 14px;
+  color: #666;
+  font-style: italic;
+  margin-top: 5px;
+}
+
 .main-nav {
   display: flex;
   gap: 4px;
