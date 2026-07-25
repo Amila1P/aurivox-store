@@ -1,6 +1,6 @@
-# Mini Online Store
+# AurivoX
 
-Mini Online Store is a React + Vite e-commerce demo for browsing products, viewing product details, managing a cart, and completing a simple checkout flow.
+AurivoX is a React + Vite e-commerce demo for browsing products, viewing product details, managing a cart, and completing a simple checkout flow.
 
 ## Features
 

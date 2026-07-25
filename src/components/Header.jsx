@@ -18,9 +18,8 @@ export default function Header() {
     <header className="site-header">
       <div className="header-inner">
         <NavLink to="/" className="brand">
-          <span className="brand-mark">S</span>
+          <span className="brand-mark">A</span>
           <span className="brand-name">
-           {/* Sprout &amp; <em>Stem</em>*/}
             Aurivo<em>X</em>
           </span>
           <p className="brand-tagline">Smart shopping for modern life.</p>

@@ -26,14 +26,14 @@ export default function Home() {
         <Banner
           variant="forest"
           eyebrow="Big Summer Sale"
-          title="Up to 50% off greenery"
-          subtitle="Bring the outdoors in — statement plants and pots at their best prices all season."
+          title="Up to 50% off top picks"
+          subtitle="Shop electronics, accessories, fashion, and everyday essentials at seasonal prices."
         />
         <Banner
           variant="clay"
           eyebrow="Weekend deals"
-          title="Fast delivery, fresh stock"
-          subtitle="Order by Friday and your plants arrive potted and ready by the weekend."
+          title="Fast delivery, fresh drops"
+          subtitle="Order by Friday and get curated products delivered and ready for the weekend."
         />
       </div>
 
